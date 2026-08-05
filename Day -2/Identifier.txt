@@ -1,0 +1,34 @@
+IDENTIFIERS:
+
+Rules for Identifiers >
+
+1.Must start with a letter or underscore (_).
+2.Can contain letters, digits, and underscores.
+3.Cannot start with a digit.
+4.Cannot contain spaces or special characters (@, #, $, -, etc.).
+5.Cannot be a keyword (e.g., if, class, while).
+6.Identifiers are case-sensitive in languages like Python, Java, and C (age, Age, and AGE are different).
+
+VARIABLES:
+
+Rules for Variable Names >
+1.Must start with a letter or underscore (_).
+2.Can contain letters, digits, and underscores.
+3.Cannot start with a digit.
+4.Cannot contain spaces or special characters.
+5.Cannot be a keyword.
+6.Are case-sensitive (age, Age, and AGE are different).
+
+KEYWORDS: 35 total
+
+Python Keywords are reserved words that have a special meaning in Python.
+They cannot be used as variable names, function names, or identifiers.
+
+False    None     True     and      as
+assert   async    await    break    class
+continue def      del      elif     else
+except   finally  for      from     global
+if       import   in       is       lambda
+nonlocal not      or       pass     raise
+return   try      while    with     yield
+match    casex	

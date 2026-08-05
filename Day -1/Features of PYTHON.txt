@@ -1,0 +1,91 @@
+1. Easy to Learn
+
+Python has a simple syntax that looks almost like English.
+
+2.Readable Code
+
+Python emphasizes readability, so your programs are easier to understand and maintain.
+
+3. Huge Standard Library
+
+Python comes with many built-in modules, so you don't have to write everything from scratch.
+
+4. Cross-Platform
+
+Python programs run on:
+
+Windows
+Linux
+macOS
+
+The same code usually works on all three with little or no modification.
+
+5.Powerful Libraries
+
+Python has thousands of ready-to-use libraries.
+example:
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+
+6.Faster Development
+
+Because Python has simple syntax and many built-in tools,
+developers can build applications much faster than in many other languages.
+
+7. Interpreted Language
+
+Python executes code line by line, making it easier to test, debug, and develop applications quickly.
+
+8. Dynamically Typed
+
+You don't need to declare variable types explicitly.
+
+9. Object-Oriented and Multi-Paradigm
+
+Python supports:
+
+Object-Oriented Programming (OOP)
+Functional Programming
+Procedural Programming
+
+This gives developers flexibility in how they design software.
+
+10. Automatic Memory Management
+
+Python has a built-in garbage collector that automatically frees unused memory, so developers don't have to manage memory manually.
+
+11. Extensible and Embeddable
+You can write performance-critical parts in C or C++ and use them from Python.
+Python can also be embedded into applications to provide scripting capabilities.
+
+12. Excellent Ecosystem
+
+Python integrates well with:
+
+Databases (MySQL, PostgreSQL, MongoDB)
+Cloud platforms (AWS, Azure, Google Cloud)
+APIs and web services
+Docker and Kubernetes
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+There are 6 main pillars of  Python.
+
+1.Class:
+A class is a blueprint for creating objects.
+
+2.Object:
+An object is an instance of a class.
+
+3.Encapsulation:
+means combining data and methods into a single unit and controlling access to data.
+
+4.Inheritance:
+allows one class to inherit properties and methods from another.
+
+5.Polymorphism:
+means one interface, many implementations.
+
+6.Abstraction:
+showing only the essential details while hiding implementation details.
