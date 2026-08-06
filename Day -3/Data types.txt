@@ -1,0 +1,47 @@
+1. int :
+
+Stores whole numbers (no decimal point).
+Can be positive, negative, or zero.
+
+2. float:
+
+Stores decimal (floating-point) numbers.
+
+3. complex:
+
+Stores complex numbers.
+Uses j to represent the imaginary part.
+
+4. str >> String:
+
+Stores text or characters.
+Written inside single (' ') or double (" ") quotes.
+
+5.bool (Boolean):
+
+Stores only two values:
+True
+False
+
+6.list:
+
+Stores multiple items.
+Ordered and changeable (mutable).
+Uses square brackets [].
+
+7.tuple:
+
+Stores multiple items.
+Ordered but cannot be changed (immutable).
+Uses parentheses ().
+
+8.set:
+
+Stores unique items only.
+Unordered and does not allow duplicates.
+Uses curly braces {}.
+
+9.dict (Dictionary):
+
+Stores data in key : value pairs.
+Uses curly braces {}.
