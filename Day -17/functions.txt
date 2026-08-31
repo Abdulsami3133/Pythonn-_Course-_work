@@ -1,0 +1,33 @@
+A function is a reusable block of code that performs a
+specific task.
+Instead of writing the same code repeatedly, we define 
+it once and call it whenever needed. 
+Easier to Find and Fix Errors 
+If there is a problem with salary calculation, you can
+check the calculate_salary() function instead of 
+searching through the entire program.
+Functions allow us to divide a large program into small,
+reusable blocks of code, where each function performs a
+specific task.
+Main benefits:
+Reusability → Less repetition → Readability → 
+Easy debugging → Easy maintenance
+
+Reduce code duplication – The same code can be written
+once and reused multiple times.
+Improve code reusability – A function can be called 
+whenever its task is required.
+Improve readability – Programs become easier to 
+understand because each function performs a specific task.
+Simplify debugging – Errors can be isolated and fixed 
+within a particular function.
+Improve maintainability – Changes can be made in one 
+function without modifying the entire program.
+Support modular programming – A large program can be 
+divided into smaller independent modules.
+Reduce program complexity – Functions help manage and 
+organize complex programs.
+
+Types of Functions 
+*Built-in Function
+*User-Defined Function
