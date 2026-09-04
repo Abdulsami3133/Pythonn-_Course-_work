@@ -1,0 +1,33 @@
+'''
+import logic
+
+logic.add(20,10)
+logic.sub(20,10)
+logic.mul(20,10)
+logic.div(20,10)
+logic.md(20,10)
+logic.pow(20,10)
+
+import logic as lg
+
+
+lg.add(20,10)
+lg.sub(20,10)
+lg.mul(20,10)
+lg.div(20,10)
+lg.md(20,10)
+lg.pow(20,10)
+
+
+from logic import add,mul
+
+add(24,26)
+mul(2,3)
+'''
+from logic import *
+add(20,10)
+sub(20,10)
+mul(20,10)
+div(20,10)
+md(20,10)
+pow(20,10)
